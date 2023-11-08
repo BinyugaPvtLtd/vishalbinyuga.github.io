@@ -1,0 +1,26 @@
+[
+  {
+    "operation": "Welding (10)",
+    "yield": "100",
+    "rework": "0",
+    "rejection": "0"
+  },
+  {
+    "operation": "Boring (20)",
+    "yield": "100",
+    "rework": "0",
+    "rejection": "0"
+  },
+  {
+    "operation": "Auto Inspection (30)",
+    "yield": "100",
+    "rework": "0",
+    "rejection": "20"
+  },
+  {
+    "operation": "Manual Inspection (40)",
+    "yield": "100",
+    "rework": "0",
+    "rejection": "20"
+  }
+]

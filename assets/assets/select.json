@@ -1,0 +1,72 @@
+[
+  {
+    "emp_id": "ID1201 132",
+    "username": "Vishal More",
+    "role": "Supervisor",
+    "update" : false,
+    "check" : true
+  },
+  {
+    "emp_id": "ID1201 132",
+    "username": "Shubham Wani",
+    "role": "Supervisor",
+    "update" : false,
+    "check" : true
+  },
+  {
+    "emp_id": "ID1201 132",
+    "username": "Prajwal Lokhande",
+    "role": "Supervisor",
+    "update" : false,
+    "check" : true
+  },
+  {
+    "emp_id": "ID1201 132",
+    "username": "Prachi Pachange",
+    "role": "Supervisor",
+    "update" : false,
+    "check" : true
+  },
+  {
+    "emp_id": "ID1201 132",
+    "username": "Saloni Pardeshi",
+    "role": "Supervisor",
+    "update" : false,
+    "check" : true
+  },
+  {
+    "emp_id": "ID1201 132",
+    "username": "Prachi Pachange",
+    "role": "Admin",
+    "update" : false,
+    "check" : true
+  },
+  {
+    "emp_id": "ID1201 132",
+    "username": "Prachi Pachange",
+    "role": "Admin",
+    "update" : false,
+    "check" : true
+  },
+  {
+    "emp_id": "ID1201 132",
+    "username": "Vishal More",
+    "role": "Admin",
+    "update" : false,
+    "check" : true
+  },
+  {
+    "emp_id": "ID1201 132",
+    "username": "Prachi Pachange",
+    "role": "Supervisor",
+    "update" : false,
+    "check" : true
+  },
+  {
+    "emp_id": "ID1201 132",
+    "username": "Prachi Pachange",
+    "role": "Supervisor",
+    "update" : false,
+    "check" : true
+  }
+]

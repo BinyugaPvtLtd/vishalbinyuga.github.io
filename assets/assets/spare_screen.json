@@ -1,0 +1,38 @@
+[
+  {
+    "isStart" : true,
+    "production_stage" : "Welding",
+    "production_line" : "Line 1",
+    "material" : "Spring",
+    "start_time" : "13:00",
+    "end_time" : "15:00",
+    "shift" : "Shift 1 (10/11/2023-17/11/2023)"
+  },
+  {
+    "isStart" : true,
+    "production_stage" : "Welding",
+    "production_line" : "Line 2",
+    "material" : "Bolt",
+    "start_time" : "13:00",
+    "end_time" : "15:00",
+    "shift" : "Shift 1 (10/11/2023-17/11/2023)"
+  },
+  {
+    "isStart" : true,
+    "production_stage" : "Welding",
+    "production_line" : "Line 1",
+    "material" : "Spring",
+    "start_time" : "1:00",
+    "end_time" : "3:00",
+    "shift" : "Shift 2 (10/11/2023-17/11/2023)"
+  },
+  {
+    "isStart" : true,
+    "production_stage" : "Welding",
+    "production_line" : "Line 1",
+    "material" : "Bolt",
+    "start_time" : "1:00",
+    "end_time" : "3:00",
+    "shift" : "Shift 2 (10/11/2023-17/11/2023)"
+  }
+]

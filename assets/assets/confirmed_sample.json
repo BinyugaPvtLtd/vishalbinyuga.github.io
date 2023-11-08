@@ -1,0 +1,55 @@
+[
+  {
+    "dbid" : 1,
+    "Status" : "SAPCNF",
+    "OrderNo" : "100001",
+    "Operation" : "Welding (10)",
+    "MaterialNo" : "8010000010",
+    "Description" : "BOXER CHAINA SARI GUARD JV231204",
+    "OrderQty" : "100",
+    "PendingQty" : "100",
+    "Rejection" : " ",
+    "Rework" : " ",
+    "BalancedQty" : " "
+
+  },
+  {
+    "dbid" : 2,
+    "Status" : "SAPCNF",
+    "OrderNo" : "100001",
+    "Operation" : "Boring (20)",
+    "MaterialNo" : "8010000010",
+    "Description" : "BOXER CHAINA SARI GUARD JV231204",
+    "OrderQty" : "100",
+    "PendingQty" : "100",
+    "Rejection" : " ",
+    "Rework" : " ",
+    "BalancedQty" : " "
+  },
+  {
+    "dbid" : 3,
+    "Status" : "SAPCNF",
+    "OrderNo" : "100001",
+    "Operation" : "Auto Inspection (40)",
+    "MaterialNo" : "8010000010",
+    "Description" : "BOXER CHAINA SARI GUARD JV231204",
+    "OrderQty" : "100",
+    "PendingQty" : "80",
+    "Rejection" : "10",
+    "Rework" : "10",
+    "BalancedQty" : "10"
+  },
+  {
+    "dbid" : 4,
+    "Status" : "SAPCNF",
+    "OrderNo" : "100001",
+    "Operation" : "Manual Inspection  (30)",
+    "MaterialNo" : "8010000010",
+    "Description" : "BOXER CHAINA SARI GUARD JV231204",
+    "OrderQty" : "100",
+    "PendingQty" : "70",
+    "Rejection" : "5",
+    "Rework" : "5",
+    "BalancedQty" : "5"
+  }
+]
